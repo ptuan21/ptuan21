@@ -314,7 +314,7 @@ Let's connect:
 
 Email | LinkedIn | Portfolio
 ---|---|---
-your-email@example.com | [Pham Minh Tuan](https://linkedin.com/in/ptuan21) | [tuanpham.github.io](https://tuanpham.github.io)
+tuanfam.minh@gmail.com | [Pham Minh Tuan](https://www.linkedin.com/in/tuanpham21/) | [tuanpham.github.io](https://tuanpham.github.io)
 
 </div>
 
