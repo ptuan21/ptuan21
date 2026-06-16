@@ -1,4 +1,4 @@
-# Xin chào, Tôi là Phan Tuấn
+# Hello, I'm Pham Minh Tuan
 
 <div align="center">
 
@@ -6,23 +6,25 @@
 
 Master's Candidate at **UET-VNU** | Computer Science | Application Engineering
 
+Fluent in English (C1) | Japanese (N4)
+
 </div>
 
 ---
 
-## Về Tôi
+## About Me
 
-Tôi là một **Technical Lead** và **AI Researcher** với niềm đam mê xây dựng các giải pháp công nghệ hiện đại và có tác động thực tế. Hiện đang hoàn thành bằng Thạc sĩ tại **Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET-VNU)**.
+I am a **Technical Lead** and **AI Researcher** passionate about building cutting-edge technological solutions with real-world impact. Currently pursuing a Master's degree at the **University of Engineering and Technology - Vietnam National University, Hanoi (UET-VNU)**.
 
-### Chuyên môn chính
-- AI & Machine Learning - Nghiên cứu và phát triển các mô hình AI tiên tiến
-- Full-Stack Web Development - Xây dựng các ứng dụng web tương tác từ Frontend đến Backend
-- DevOps & Application Engineering - Tối ưu hóa deployment, CI/CD, infrastructure-as-code
-- Technical Leadership - Hướng dẫn và quản lý các dự án kỹ thuật phức tạp
+### Core Expertise
+- **AI & Machine Learning** - Research and development of advanced AI models and applications
+- **Full-Stack Web Development** - Building interactive web applications from frontend to backend
+- **DevOps & Application Engineering** - Optimizing deployment pipelines, CI/CD, and infrastructure-as-code
+- **Technical Leadership** - Guiding and managing complex technical projects and teams
 
 ---
 
-## Kỹ Năng Kỹ Thuật
+## Technical Skills
 
 ### AI & Machine Learning
 - Deep Learning, NLP, Computer Vision
@@ -52,15 +54,15 @@ Tôi là một **Technical Lead** và **AI Researcher** với niềm đam mê x�
 
 ---
 
-## Dự Án Nổi Bật
+## Featured Projects
 
 ### Semiconductor AI Chain-of-Thought
 
 **Repository**: [semiconductor-ai-cot](https://github.com/ptuan21/semiconductor-ai-cot)
 
-Ứng dụng AI với Chain-of-Thought reasoning để giải quyết các vấn đề trong lĩnh vực bán dẫn
+AI application using Chain-of-Thought reasoning to solve problems in the semiconductor domain
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -70,7 +72,7 @@ Tôi là một **Technical Lead** và **AI Researcher** với niềm đam mê x�
 
 </div>
 
-**Điểm Highlight**: Tích hợp reasoning logic, explainable AI, advanced prompt engineering
+**Highlights**: Reasoning logic integration, explainable AI, advanced prompt engineering
 
 ---
 
@@ -78,9 +80,9 @@ Tôi là một **Technical Lead** và **AI Researcher** với niềm đam mê x�
 
 **Repository**: [smart-ai-study](https://github.com/ptuan21/smart-ai-study)
 
-Hệ thống học tập thông minh sử dụng AI để tối ưu hóa quá trình học
+Intelligent learning system using AI to optimize the learning process
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -91,7 +93,7 @@ Hệ thống học tập thông minh sử dụng AI để tối ưu hóa quá tr
 
 </div>
 
-**Điểm Highlight**: Personalized learning paths, adaptive content, data-driven insights
+**Highlights**: Personalized learning paths, adaptive content, data-driven insights
 
 ---
 
@@ -99,9 +101,9 @@ Hệ thống học tập thông minh sử dụng AI để tối ưu hóa quá tr
 
 **Repository**: [ML-in-detect](https://github.com/ptuan21/ML-in-detect)
 
-Hệ thống phát hiện sử dụng Machine Learning
+Machine Learning-based detection system with advanced accuracy
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -112,7 +114,7 @@ Hệ thống phát hiện sử dụng Machine Learning
 
 </div>
 
-**Điểm Highlight**: High accuracy detection models, real-time processing, computer vision
+**Highlights**: High accuracy detection models, real-time processing, computer vision integration
 
 ---
 
@@ -120,9 +122,9 @@ Hệ thống phát hiện sử dụng Machine Learning
 
 **Repository**: [get-infor-telegrambot](https://github.com/ptuan21/get-infor-telegrambot)
 
-Bot Telegram cho phép lấy thông tin thông minh từ nhiều nguồn
+Telegram bot enabling intelligent information retrieval from multiple sources
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -132,7 +134,7 @@ Bot Telegram cho phép lấy thông tin thông minh từ nhiều nguồn
 
 </div>
 
-**Điểm Highlight**: Asynchronous operations, real-time data fetching, web scraping
+**Highlights**: Asynchronous operations, real-time data fetching, web scraping capabilities
 
 ---
 
@@ -140,9 +142,9 @@ Bot Telegram cho phép lấy thông tin thông minh từ nhiều nguồn
 
 **Repository**: [CVRPTW_problem](https://github.com/ptuan21/CVRPTW_problem)
 
-Giải quyết bài toán Capacitated Vehicle Routing Problem with Time Windows - tối ưu hóa logistics
+Solving Capacitated Vehicle Routing Problem with Time Windows - logistics optimization
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -152,7 +154,7 @@ Giải quyết bài toán Capacitated Vehicle Routing Problem with Time Windows 
 
 </div>
 
-**Điểm Highlight**: Advanced routing algorithms, constraint handling, logistics optimization
+**Highlights**: Advanced routing algorithms, constraint handling, supply chain optimization
 
 ---
 
@@ -160,9 +162,9 @@ Giải quyết bài toán Capacitated Vehicle Routing Problem with Time Windows 
 
 **Repository**: [learning_japanese](https://github.com/ptuan21/learning_japanese)
 
-Ứng dụng web tương tác để học tiếng Nhật
+Interactive web application for learning Japanese language
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -173,7 +175,7 @@ Giải quyết bài toán Capacitated Vehicle Routing Problem with Time Windows 
 
 </div>
 
-**Điểm Highlight**: Interactive learning interface, spaced repetition system, responsive design
+**Highlights**: Interactive learning interface, spaced repetition system, responsive design
 
 ---
 
@@ -181,9 +183,9 @@ Giải quyết bài toán Capacitated Vehicle Routing Problem with Time Windows 
 
 **Repository**: [Logistic-Regression](https://github.com/ptuan21/Logistic-Regression)
 
-Phân tích chi tiết về Logistic Regression với ứng dụng thực tế
+Comprehensive analysis of Logistic Regression with practical applications
 
-**Công cụ sử dụng:**
+**Tech Stack:**
 
 <div align="center">
 
@@ -194,11 +196,11 @@ Phân tích chi tiết về Logistic Regression với ứng dụng thực tế
 
 </div>
 
-**Điểm Highlight**: Statistical analysis, data visualization, machine learning fundamentals
+**Highlights**: Statistical analysis, data visualization, machine learning fundamentals
 
 ---
 
-## Công Nghệ & Tools Yêu Thích
+## Favorite Technologies & Tools
 
 ### Programming Languages
 
@@ -268,41 +270,49 @@ Phân tích chi tiết về Logistic Regression với ứng dụng thực tế
 
 ---
 
-## Học Vấn & Chứng Chỉ
+## Education & Certifications
 
-- Thạc sĩ - Computer Science tại UET-VNU (Đang học)
+- Master's Degree - Computer Science at UET-VNU (In Progress)
 - Machine Learning & Deep Learning Specialization
 - Technical Leadership & Software Architecture Certifications
 
 ---
 
-## Sở Thích & Quan Tâm
+## Language Proficiency
 
-- Nghiên cứu AI & các ứng dụng trong thực tiễn
-- Thiết kế kiến trúc hệ thống scalable
+- English: Fluent (C1 Level)
+- Japanese: Proficient (N4 Level)
+- Vietnamese: Native
+
+---
+
+## Interests & Focus Areas
+
+- Research in AI and real-world AI applications
+- Designing scalable system architecture
 - Web Development & DevOps Automation
-- Tiếp tục học hỏi công nghệ mới (Quantum Computing, Edge AI, etc.)
+- Continuous learning of emerging technologies (Quantum Computing, Edge AI, etc.)
 - Problem-solving & Algorithm challenges
 
 ---
 
-## Đang Tìm Kiếm
+## What I'm Looking For
 
-- Cơ hội Technical Leadership trong các dự án AI/ML đột phá
-- Collaborative projects trong AI research & innovation
-- Mentorship opportunities và knowledge sharing
+- Technical Leadership opportunities in breakthrough AI/ML projects
+- Collaborative projects in AI research & innovation
+- Mentorship opportunities and knowledge sharing with the community
 
 ---
 
-## Liên Hệ & Kết Nối
+## Contact & Connect
 
 <div align="center">
 
-Hãy liên hệ với tôi qua:
+Let's connect:
 
 Email | LinkedIn | Portfolio
 ---|---|---
-your-email@example.com | [Phan Tuấn](https://linkedin.com/in/ptuan21) | [tuanpham.github.io](https://tuanpham.github.io)
+your-email@example.com | [Pham Minh Tuan](https://linkedin.com/in/ptuan21) | [tuanpham.github.io](https://tuanpham.github.io)
 
 </div>
 
@@ -320,21 +330,21 @@ your-email@example.com | [Phan Tuấn](https://linkedin.com/in/ptuan21) | [tuanp
 
 ---
 
-## Hoạt Động Gần Đây
+## Recent Activities
 
-- Nghiên cứu: Chain-of-Thought Reasoning trong AI
-- Phát triển: Các hệ thống AI thực tiễn
-- Chia sẻ: Kiến thức về Full-Stack Development & DevOps
-- Học tập: Master's research tại UET-VNU
+- Research: Chain-of-Thought Reasoning in AI systems
+- Development: Building practical AI solutions
+- Knowledge Sharing: Full-Stack Development & DevOps best practices
+- Academic: Master's research at UET-VNU
 
 ---
 
 <div align="center">
 
-Nếu bạn thích dự án của tôi, hãy cho một sao!
+If you like my projects, please give them a star!
 
-Follow tôi để cập nhật các dự án mới | Hãy tự do mở Issue hoặc Discussion
+Follow me for updates on new projects | Feel free to open Issues or Discussions
 
-Made with love by Phan Tuấn | Last Updated: June 2026
+Made with passion by Pham Minh Tuan | Last Updated: June 2026
 
 </div>
