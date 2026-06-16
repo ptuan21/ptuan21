@@ -320,18 +320,6 @@ your-email@example.com | [Pham Minh Tuan](https://linkedin.com/in/ptuan21) | [tu
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ptuan21&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptuan21&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Recent Activities
 
 - Research: Chain-of-Thought Reasoning in AI systems
