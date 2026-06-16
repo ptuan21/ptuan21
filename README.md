@@ -6,9 +6,9 @@
 
 **Technical Lead | AI Researcher | Full-stack Developer | DevOps Engineer**
 
-Master's Candidate at **UET-VNU** | Computer Science | Application Engineering
+**Master's Candidate at **UET-VNU** | Computer Science | Application Engineering**
 
-Fluent in English (C1) | Japanese (N4)
+**Fluent in English (C1) | Japanese (N4)**
 
 </div>
 
@@ -16,7 +16,7 @@ Fluent in English (C1) | Japanese (N4)
 
 ## About Me
 
-I am a **Technical Lead** and **AI Researcher** passionate about building cutting-edge technological solutions with real-world impact. Currently pursuing a Master's degree at the **University of Engineering and Technology - Vietnam National University, Hanoi (UET-VNU)**.
+I am a **Technical Lead** and **AI Researcher** passionate about building cutting-edge technological solutions with real-world impact. Currently pursuing a Master's degree at the **University of Engineering and Technology - Vietnam National University, Hanoi (UET-VNU)**.I graduated bachelor honor program at **VietNam Japan University - VietNam National University, Ha Noi (VJU-VNU)**
 
 ### Core Expertise
 - **AI & Machine Learning** - Research and development of advanced AI models and applications
