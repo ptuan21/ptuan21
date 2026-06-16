@@ -1,5 +1,7 @@
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/9573a79f-d743-443c-9345-3c7bc0fc8059" />
+<div align="center">
 # Hello, I'm Pham Minh Tuan
-
+</div>
 <div align="center">
 
 **Technical Lead | AI Researcher | Full-stack Developer | DevOps Engineer**
