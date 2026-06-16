@@ -1,5 +1,3 @@
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9cb2cd87-2dd5-43d5-8a02-e989ce11536f" />
-
 # Hello, I'm Pham Minh Tuan
 
 <div align="center">
