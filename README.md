@@ -8,7 +8,7 @@
 
 **Master's Candidate at **UET-VNU** | Computer Science | Application Engineering**
 
-**Fluent in English (C1) | Japanese (N4)**
+**Fluent in English (C1)**
 
 </div>
 
