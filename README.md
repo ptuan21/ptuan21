@@ -325,7 +325,6 @@ tuanfam.minh@gmail.com | [Pham Minh Tuan](https://www.linkedin.com/in/tuanpham21
 - Research: Chain-of-Thought Reasoning in AI systems
 - Development: Building practical AI solutions
 - Knowledge Sharing: Full-Stack Development & DevOps best practices
-- Academic: Master's research at UET-VNU
 
 ---
 
